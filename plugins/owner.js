@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*owner Althaf Rahman - http://Wa.me/+919995072954*\n* *\n🔰instagram:- https://www.instagram.com/althaf404_ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
+    r_text[1] = "*owner Stanly - http://Wa.me/+919633833279*\n* *\n🔰instagram:- https://www.instagram.com/nishal_zan__ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Stanly*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Owner Althaf Rahman═💥*\n\n*💘 https://github.com/althaf404/Damu-bot*\n*     *\n follow on Instagram- https://www.instagram.com/althaf404_*"
+        r_text[1] = "*Git links*\n           *\n💥═Owner Stanly═💥*\n\n*💘 https://github.com/Stanlygit/Damu-bot*\n*     *\n follow on Instagram- https://www.instagram.com/nishal_zan__*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*owner Althaf Rahman - http://Wa.me/+919995072954*\n* *\n🔰instagram:- https://www.instagram.com/althaf404_ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
+    r_text[1] = "*owner Stanly- http://Wa.me/+919633833279*\n* *\n🔰instagram:- https://www.instagram.com/nishal_zan__ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Owner Althaf Rahman═💥*\n\n*💘 https://github.com/althaf404/Damu-bot*\n*     *\n follow on Instagram- https://www.instagram.com/althaf404_*"
+        r_text[1] = "*Git links*\n           *\n💥═Owner Stanly═💥*\n\n*💘 https://github.com/Stanlygit/Damu-bot*\n*     *\n follow on Instagram- https://www.instagram.com/nishal_zan__*"
 
     
 
