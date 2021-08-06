@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*owner Stanly- http://Wa.me/+919633833279*\n* *\n🔰instagram:- https://www.instagram.com/nishal_zan__ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Althaf Rahman*"
+    r_text[1] = "*owner Stanly- http://Wa.me/+919633833279*\n* *\n🔰instagram:- https://www.instagram.com/nishal_zan__ *            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Stanly*"
 
     
 
